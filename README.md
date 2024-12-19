@@ -100,3 +100,15 @@ Run the `main.py` file for the specific tool you want to benchmark:
 ## 🛠 Future Work
 
 The study highlights the need for further advancements in GPU support, table recognition, and resource optimization to enhance these tools' performance in AI-driven workflows.
+
+## 🔗 Additional Resources
+
+For further details about each tool, refer to their official documentation and repositories:
+
+- [Docling](https://github.com/DS4SD/docling)
+- [Llama Parse](https://docs.llamaindex.ai/en/stable/llama_cloud/llama_parse/)
+- [Marker](https://github.com/VikParuchuri/marker)
+- [MinerU](https://github.com/opendatalab/MinerU)
+- [Unstructured](https://docs.unstructured.io/welcome)
+- [Zerox](https://github.com/getomni-ai/zerox)
+
