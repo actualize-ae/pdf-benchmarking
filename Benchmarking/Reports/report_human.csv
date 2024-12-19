@@ -1,0 +1,7 @@
+PDF Parser,PDF Name,Pages,Text Extraction Accuracy (Score out of 10),Table Extraction Accuracy (Score out of 10),Reading Order Accuracy (Score out of 10),Markdown Conversion Accuracy (Score out of 10),Code and Math Equations Extraction (Score out of 10),Image Extraction Accuracy (Score out of 10),Overall Score(out of 10)
+Docling,academic paper,21,9,6,9,9,,5,7.6
+Llama parse,academic paper,21,7,8,9,7,,6,7.4
+Marker,academic paper,21,8,5,9,8,,8,7.6
+MinerU,academic paper,21,9.8,7,9,9,,9,8.76
+Unstructured,academic paper,21,9,3,9,7,,4,6.4
+Xerox,academic paper,21,9,7,9,9,,5,7.8

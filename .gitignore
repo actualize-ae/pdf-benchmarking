@@ -1,0 +1,12 @@
+# Ignore the 'data' and 'output' folders
+data/
+output/
+
+# Ignore all virtual environments (venv folder and similar)
+venv/
+*/venv/
+*_env/
+
+
+*.ipynb
+.zshrc

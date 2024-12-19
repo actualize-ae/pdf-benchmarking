@@ -1,0 +1,4 @@
+PDF Parser,User (In seconds),System(In Seconds),GPU%,Total Time(In Seconds)
+Docling,26.9,2.54,11.5,20.3
+Marker,91.6,7.8,19,40.9
+MinerU,133.7,10.56,17.4,143.2

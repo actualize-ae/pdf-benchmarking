@@ -1,0 +1,5 @@
+PDF Parser,User (In seconds),System(In Seconds),CPU%,Total Time(In Seconds)
+Docling,168.52,12.3,230,80
+Marker,1906.71,451.67,526,440
+MinerU,2568.92,707.72,633,498
+Unstructured,222.94,11.41,170,132

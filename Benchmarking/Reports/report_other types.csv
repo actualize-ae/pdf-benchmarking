@@ -1,0 +1,43 @@
+Type,PDF Parser,Text Extraction Accuracy (Score out of 10),Table Extraction Accuracy (Score out of 10),Reading Order Accuracy (Score out of 10),Markdown Conversion Accuracy (Score out of 10),Code and Math Equations Extraction (Score out of 10),Image Extraction Accuracy (Score out of 10),Overall Score (out of 10)
+academic paper,Docling,8,5,9,7,6,4,6.5
+academic paper,Llama parse,8,7,9,8,6,5,7.2
+academic paper,Marker,9,6,9,7,5,6,7
+academic paper,MinerU,9,7,8,8,6,5,7.2
+academic paper,Unstructured,8,6,9,8,5,5,7
+academic paper,Zerox,9,7,9,8,6,5,7.3
+catelog,Docling,9,7,9,8,6,5,7.3
+catelog,Llama parse,8,7,8,7,6,5,6.8
+catelog,Marker,9,7,9,8,6,6,7.5
+catelog,MinerU,9,8,9,8,6,7,7.8
+catelog,Unstructured,9,7,9,8,6,6,7.5
+catelog,Zerox,9,8,9,8,6,7,7.8
+faq,Docling,8,,9,7,,5,7.2
+faq,Llama parse,9,,9,8,,5,7.8
+faq,Marker,9,,9,8,,7,8.1
+faq,MinerU,9,,9,8,,7,8.1
+faq,Unstructured,9,,9,8,,5,7.8
+faq,Zerox,9,,9,8,,,8.8
+financial report,Docling,9,8,9,7,,,8.3
+financial report,Llama parse,9,8,9,7,,,8.3
+financial report,Marker,8,8,9,7,,,8
+financial report,MinerU,8,7,9,6,,,7.2
+financial report,Unstructured,9,7,9,8,,,8.2
+financial report,Zerox,9,9,9,8,,,8.8
+malayalam,Docling,6,5,7,5,,,5.8
+malayalam,Llama parse,7,5,8,6,,,6.5
+malayalam,Marker,6,6,7,5,,,6
+malayalam,MinerU,6,5,7,5,,,7.5
+malayalam,Unstructured,5,4,6,4,,,4.8
+malayalam,Zerox,7,5,8,6,,,6.5
+medical record,Docling,9,8,9,8,,,8.5
+medical record,Llama parse,9,8,9,8,,,8.3
+medical record,Marker,8,6,9,7,,6,7.3
+medical record,MinerU,9,7,9,8,,7,8.2
+medical record,Unstructured,9,7,9,8,,,8.3
+medical record,Zerox,9,7,9,8,,,8.3
+scan,Docling,9,6,9,7,,6,7.5
+scan,Llama parse,9,6,9,7,,6,7.5
+scan,Marker,9,7,9,8,,6,8.2
+scan,MinerU,9,7,9,8,,,8.3
+scan,Unstructured,9,8,9,8,,,8.2
+scan,Zerox,9,8,9,8,,,8.5
