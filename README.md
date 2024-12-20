@@ -7,6 +7,10 @@ This repository presents a comprehensive study and benchmarking of PDF extractio
 
 PDF extraction tools are vital for enabling AI systems to process structured and unstructured content effectively. This study evaluates six tools on their capabilities for text, table, and image extraction, OCR accuracy, Markdown conversion, and logical reading order preservation.
 
+## ⚠️ Disclaimer
+
+The views and feedback shared in this article are based on internal testing and evaluations conducted by Actualize's engineering team. This study does not intend to criticize, guarantee ownership, or take any responsibility for the performance or effectiveness of the tools discussed. Our aim is to transparently share the findings from our testing process without bias, providing insights for informational purposes only.
+
 ## 🧪 Tools Evaluated
 
 The following tools were benchmarked:
