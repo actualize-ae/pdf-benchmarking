@@ -3,7 +3,7 @@ import subprocess
 def run_markitdown_script():
     # Correctly handle file output in subprocess
     input_file = "data/academic_paper.pdf"
-    output_file = "output/markitdown/test_test.md"
+    output_file = "output/markitdown/academic.md"
     
     with open(output_file, "w") as outfile:
         # Run the command and redirect stdout to the file

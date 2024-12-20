@@ -2,7 +2,7 @@
 from unstructured.partition.pdf import partition_pdf
 
 # Define the input PDF file path
-pdf_file_path = "data/basic-md-julia.pdf"
+pdf_file_path = "data/academic_paper.pdf"
 
 # Process the PDF file
 elements = partition_pdf(filename=pdf_file_path,extract_images_in_pdf=True,infer_table_structure=True,extract_image_block_types=["Image","Table"])
@@ -24,12 +24,12 @@ for element in elements:
         markdown_content += f"{element.text}\n\n"
 
 #Define the output Markdown file path
-output_md_path = "test/unstructured/basic.md"
+output_md_path = "output/unstructured/academic.md"
 # Save the Markdown content to a file
 with open(output_md_path, "w") as md_file:
     md_file.write(markdown_content)
 
-print(f"Markdown content saved to: {output_md_path}")
+
 
 
 

@@ -22,12 +22,12 @@ os.environ["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY")
 
 # Define main async entrypoint
 async def main():
-    file_path = "data/faq.pdf" ## local filepath and file URL supported
+    file_path = "data/academic_paper.pdf" ## local filepath and file URL supported
 
     ## process only some pages or all
     select_pages = None ## None for all, but could be int or list(int) page numbers (1 indexed)
 
-    output_dir = "test/zerox" ## directory to save the consolidated markdown file
+    output_dir = "output/zerox" ## directory to save the consolidated markdown file
     result = await zerox(file_path=file_path, model=model, output_dir=output_dir,
                         custom_system_prompt=custom_system_prompt,select_pages=select_pages, **kwargs)
     return result

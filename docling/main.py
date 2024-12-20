@@ -8,7 +8,7 @@ import subprocess
 
 def run_docling_script():
     # Run the external command for PDF processing
-    command = ["docling", "data/academic_paper.pdf", "--output", "test/docling"]
+    command = ["docling", "data/academic_paper.pdf", "--output", "output/docling"]
     process = subprocess.run(command, capture_output=True, text=True)
     return process.returncode, process.stdout, process.stderr
 

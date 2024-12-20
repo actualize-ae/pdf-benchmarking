@@ -17,6 +17,6 @@ parser = LlamaParse(
 parsed_documents = parser.load_data("data/academic_paper.pdf")
 
 # Save the parsed results
-with open('test/llama_parse/academic.md', 'w') as f:
+with open('output/llama_parse/academic.md', 'w') as f:
     for doc in parsed_documents:
         f.write(doc.text + '\n')
