@@ -115,4 +115,5 @@ For further details about each tool, refer to their official documentation and r
 - [MinerU](https://github.com/opendatalab/MinerU)
 - [Unstructured](https://docs.unstructured.io/welcome)
 - [Zerox](https://github.com/getomni-ai/zerox)
+- [Markitdown](https://github.com/microsoft/markitdown)
 
